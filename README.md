@@ -7,6 +7,8 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=%20Data%20Analyst&font=Fira%20Code&center=true&width=440&height=45&color=ecb306&vCenter=true&size=22"></a>
 </p> 
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/20368/screenshots/4012238/data_scene.gif">
+
 Hello, I'm Yasser. Data Analyst with expertise in data analysis and reporting, query optimization, database design, and data modelling. 
 
 - Querying data using SQL.
