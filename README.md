@@ -2,6 +2,8 @@
 
 ![Capture](https://github.com/YasserMohamed1998/HR-Dashboard-MySQL-PowerBI/assets/135642606/9d308f61-06cb-42b6-8f61-690f1df51078)
 
+![Capture 2](https://github.com/YasserMohamed1998/HR-Dashboard-MySQL-PowerBI/assets/135642606/156f8a5a-d1a3-4fc8-aa94-e23b6cd4c978)
+
 
 ## Data Used
 
